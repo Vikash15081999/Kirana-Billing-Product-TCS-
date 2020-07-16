@@ -10,7 +10,7 @@
 <b>Since model file size is too large(47 MB),I couldn't add the model file here,kindly follow the instructions in Process Explanation.doc file and create it and use it.</b>
 
 
-<b>Since Tensorflow needs some hardware in your System for processing, it might show error while running. Please search in internet for solutions of errors.</b>
+<b>Sometimes TensorFlow may shows error while running because Tensorflow needs some Hardware/Software in your System for processing.Please search in internet for solutions of errors.</b>
 
 
 
