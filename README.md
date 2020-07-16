@@ -10,7 +10,8 @@
 ```
 import threading, webbrowser   #add this line in import section
 
-threading.Timer(1.25, lambda: webbrowser.open("http://localhost:5000/") ).start()  #add this line before app.run(host="localhost",port=5000,debug=False)
+threading.Timer(1.25, lambda: webbrowser.open("http://localhost:5000/") ).start()  
+#add above line before app.run(host="localhost",port=5000,debug=False) 
 ```
 
 <b>The above two lines of code will help you in opening the webpage automatically on default web browser while you start the flask server(Add code in the app.py for that automatically opening of webpage).</b>
