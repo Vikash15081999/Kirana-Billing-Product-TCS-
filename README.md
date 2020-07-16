@@ -1,7 +1,7 @@
 # Kirana-Billing-Product-TCS
 <b>Classification of products based on image using ML.</b>
 
-<b>I have added the python code for classification of two Product using TensorFlow and Keras Libraries.</b>
+<b>I have added the python code for classification of two Product using TensorFlow and Keras Python Libraries.</b>
 
 <b>Import the necessary libraries which have been imported in python code.</b>
 
